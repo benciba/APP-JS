@@ -1,3 +1,4 @@
 # APP-JS
-Create JS Projects
-Activate again in 14-11-2021
+Create JS Projects in 2020
+
+Activate again in 2021
