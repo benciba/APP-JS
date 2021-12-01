@@ -5,4 +5,4 @@ Activate again in 2021
 
 And I create develop branch locally
 
-Let's start
+Let's start!
